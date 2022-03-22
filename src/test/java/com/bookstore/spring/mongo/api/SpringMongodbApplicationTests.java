@@ -1,4 +1,4 @@
-package com.javatechie.spring.mongo.api;
+package com.bookstore.spring.mongo.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
