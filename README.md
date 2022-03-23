@@ -1,2 +1,2 @@
 # spring-mongodb
-How to intigrate spring boot with mongodb
+DEMO CRUD, GET, POST DELETE calls via spring boot with mongodb on-prem vs Cloud (atlas)
